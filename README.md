@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @dsivakolundhu
-- 👀 I’m interested in Linux trck  
-- 🌱 I’m currently learning Advanced linux, Data analysis, AWS and Ansible Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Linux track, AWS and Ansible Automation.  
+- 🌱 I’m currently learning Advanced linux, Data analysis
+
 
 <!---
 dsivakolundhu/dsivakolundhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
